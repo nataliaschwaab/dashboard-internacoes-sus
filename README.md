@@ -61,8 +61,8 @@ Página de insights automáticos com alertas (🔴), pontos de atenção (🟡) 
 ## 📁 Estrutura do projeto
 
 ```
-├── README.md               # Este arquivo
-└── imagens/                # Screenshots das páginas (opcional)
+├── README.md              
+└── imagens/                
 ```
 
 ## 👤 Autora
