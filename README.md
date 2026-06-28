@@ -28,11 +28,10 @@ Distribuição das internações por sexo e raça/cor, e taxa de mortalidade por
 ### 4. Tendências e Alertas: Monitoramento de Indicadores
 Página de insights automáticos com alertas (🔴), pontos de atenção (🟡) e oportunidades (🟢) identificados a partir dos dados — como sazonalidade de internações, crescimento de diagnósticos específicos e correlação entre custo e eficiência por estado.
 
-<img width="1436" height="812" alt="Screenshot_4" src="https://github.com/user-attachments/assets/66d145b1-20f5-4b0c-b26a-3ee429ee3680" />
-<img width="1438" height="809" alt="Screenshot_3" src="https://github.com/user-attachments/assets/27731e12-b4af-4dbd-8259-bf24739cb9b5" />
 <img width="1444" height="811" alt="Screenshot_2" src="https://github.com/user-attachments/assets/edcdc10f-4aa2-4abe-ae56-31eaab9831f9" />
 <img width="1444" height="809" alt="Screenshot_1" src="https://github.com/user-attachments/assets/a5e2b376-5eda-4a66-bcab-9e446a16272b" />
-
+<img width="1438" height="809" alt="Screenshot_3" src="https://github.com/user-attachments/assets/27731e12-b4af-4dbd-8259-bf24739cb9b5" />
+<img width="1436" height="812" alt="Screenshot_4" src="https://github.com/user-attachments/assets/66d145b1-20f5-4b0c-b26a-3ee429ee3680" />
 
 ## 📈 Principais métricas (KPIs)
 
